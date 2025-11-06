@@ -1,10 +1,5 @@
-# Node modules
 node_modules/
-# Environment files
 .env
-# Logs
-logs
-*.log
-npm-debug.log*
-# Build
+.DS_Store
 dist/
+.vscode/
